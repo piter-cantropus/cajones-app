@@ -12,7 +12,7 @@
 {"nombre":"Garage alacena","ubicacion":"Garage","objetos":["cables"]},
 
 {"nombre":"Lavadero 1 motos","ubicacion":"Lavadero","objetos":["trapos","esponjas"]},
-{"nombre":"Lavadero 2 Herramineta pesada","ubicacion":"Lavadero","objetos":["repuestos"]},
+{"nombre":"Lavadero 2 Herramineta pesada","ubicacion":"Lavadero","objetos":["Amoladora","Formon","Soldador de estaño X2","mecha pasamuro","Estaño","Arco de sierra chico c/sierra","Teflon","Hoja de sierra X2","Morsa chica","Crimpeadora RJ-45","Tester feo","Estaca de alambre","Extractor volante moto"]},
 {"nombre":"Lavadero bajo mesada","ubicacion":"Lavadero","objetos":["varios"]},
 {"nombre":"Lavadero Pegado a lavarropa","ubicacion":"Lavadero","objetos":["varios"]},
 
