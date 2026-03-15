@@ -1,0 +1,35 @@
+[
+{"nombre":"Cocina Cajon 1 Superior","ubicacion":"Cocina","objetos":["espátula","batidor"]},
+{"nombre":"Cocina Cajon 2","ubicacion":"Cocina","objetos":["cuchillo","cuchillo pan"]},
+{"nombre":"Cocina Cajon 3","ubicacion":"Cocina","objetos":["pimienta","pimentón"]},
+{"nombre":"Cocina Cajon 4 inferior","ubicacion":"Cocina","objetos":["clips bolsas"]},
+{"nombre":"Cocina Esquinero Derecho","ubicacion":"Cocina","objetos":["clips bolsas"]},
+{"nombre":"Cocina Esquinero Izquierdo","ubicacion":"Cocina","objetos":["clips bolsas"]},
+{"nombre":"Cocina Bajo Mesada","ubicacion":"Cocina","objetos":["clips bolsas"]},
+
+{"nombre":"Garage 2 puertas","ubicacion":"Garage","objetos":["martillo","destornillador"]},
+{"nombre":"Garage mueble blanco","ubicacion":"Garage","objetos":["tornillos","tarugos"]},
+{"nombre":"Garage alacena","ubicacion":"Garage","objetos":["cables"]},
+
+{"nombre":"Lavadero 1 motos","ubicacion":"Lavadero","objetos":["trapos","esponjas"]},
+{"nombre":"Lavadero 2 Herramineta pesada","ubicacion":"Lavadero","objetos":["repuestos"]},
+{"nombre":"Lavadero bajo mesada","ubicacion":"Lavadero","objetos":["varios"]},
+{"nombre":"Lavadero Pegado a lavarropa","ubicacion":"Lavadero","objetos":["varios"]},
+
+{"nombre":"Guille Cajon 1","ubicacion":"Pieza Guille","objetos":["arduino","sensores"]},
+{"nombre":"Guille Cajon 2","ubicacion":"Pieza Guille","objetos":["usb","cables red"]},
+{"nombre":"Guille Cajon 3","ubicacion":"Pieza Guille","objetos":["ssd","ram"]},
+{"nombre":"Guille Cajon 4","ubicacion":"Pieza Guille","objetos":["ssd","ram"]},
+
+{"nombre":"Caro Cajon 1","ubicacion":"Pieza Caro","objetos":["cuadernos","lapiceras"]},
+{"nombre":"Caro Cajon 2","ubicacion":"Pieza Caro","objetos":["accesorios"]},
+{"nombre":"Caro Cajon 3","ubicacion":"Pieza Caro","objetos":["varios"]},
+{"nombre":"Caro Cajon 4","ubicacion":"Pieza Caro","objetos":["varios"]},
+
+{"nombre":"Living Bahiu Cajon","ubicacion":"Living","objetos":["hdmi"]},
+{"nombre":"Living Bahiu Puerta Derecha","ubicacion":"Living","objetos":["hdmi"]},
+{"nombre":"Living Bahiu Puerta Izquierda","ubicacion":"Living","objetos":["hdmi"]},
+{"nombre":"Living Bahiu Centro","ubicacion":"Living","objetos":["hdmi"]},
+{"nombre":"Living 2","ubicacion":"Living","objetos":["controles"]},
+{"nombre":"Living 3","ubicacion":"Living","objetos":["pilas aa","pilas aaa"]}
+]

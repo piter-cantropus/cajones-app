@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Inventario Casa</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>Inventario Casa</h1>
+
+<a href="scanner.html">📷 Escanear QR</a>
+
+<br><br>
+
+<input id="search" placeholder="buscar objeto">
+
+<div id="resultados"></div>
+
+<script>
+
+fetch("data.json")
+.then(r=>r.json())
+.then(data=>{
+
+function render(lista){
+
+let html=""
+
+lista.forEach(c=>{
+
+let id=c.nombre.toLowerCase().replaceAll(" ","-")
+
+html+=`
+
+<div class="cajon" id="${id}">
+
+<h2>${c.nombre}</h2>
+
+<p><b>Ubicación:</b> ${c.ubicacion}</p>
+
+<p>${c.objetos.join(", ")}</p>
+
+</div>
+
+`
+
+})
+
+document.getElementById("resultados").innerHTML=html
+
+}
+
+render(data)
+
+document.getElementById("search").oninput=e=>{
+
+let q=e.target.value.toLowerCase()
+
+let filtrado=data.filter(c=>
+c.objetos.join(" ").toLowerCase().includes(q)
+)
+
+render(filtrado)
+
+}
+
+let hash=window.location.hash
+
+if(hash){
+
+setTimeout(()=>{
+
+document.querySelector(hash)?.scrollIntoView()
+
+},300)
+
+}
+
+})
+
+</script>
+
+</body>
+
+</html>
