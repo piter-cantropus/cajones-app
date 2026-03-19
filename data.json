@@ -18,7 +18,7 @@
 
 {"nombre":"Garage mueble alto","ubicacion":"Garage","objetos":["martillo","destornillador"]},
 {"nombre":"Garage mueble blanco puertas","ubicacion":"Garage","objetos":["tornillos","tarugos"]},
-{"nombre":"Garage mueble blanco canasto","ubicacion":"Garage","objetos":["tornillos","tarugos"]},
+{"nombre":"Garage mueble blanco canasto","ubicacion":"Garage","objetos":["cinta pasacable","toma 20A","toma exterior doble X3","bolsa de cables","ficha macho con cable","fotocelula con base grande","caja estanca 150x100x50","ficha hembra","bastido completo jeluz","toma jeluz X5","punto jeliz X4","tapa ciega jeluz X2","foco especial para baño","marco jeluz","toma doble jalop interno","termica bipolar 20A","disyntor diferencial","led driver","portalampara porcelana","balastro lectronico para t/fluorescente","accesorio cablecanal codo y union","adaptadore de patas X3","tecla exterior reforzada"]},
 {"nombre":"Garage alacena doble","ubicacion":"Garage","objetos":["cables"]},
 {"nombre":"Garage alacena simple","ubicacion":"Garage","objetos":["cables"]},
 
